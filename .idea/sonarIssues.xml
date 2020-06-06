@@ -3,12 +3,7 @@
   <component name="issues">
     <option name="index">
       <map>
-        <entry key="/Dummy.txt">
-          <value>
-            <set />
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/app/src/main/java/info/sanaebadi/dependencymanagement/MainActivity.java">
+        <entry key="$PROJECT_DIR$/app/build.gradle">
           <value>
             <set />
           </value>
