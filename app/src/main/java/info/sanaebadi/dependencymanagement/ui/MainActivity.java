@@ -1,8 +1,10 @@
-package info.sanaebadi.dependencymanagement;
+package info.sanaebadi.dependencymanagement.ui;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import info.sanaebadi.dependencymanagement.R;
 
 public class MainActivity extends AppCompatActivity {
 
