@@ -8,6 +8,6 @@ import android.content.Context
 
 class NetworkService(context: Context) {
     private val apiKey = "SOME_API_KEY"
-    private val getDummyData: String
+     val getDummyData: String
         get() = "NETWORK_DUMMY_DATA"
 }

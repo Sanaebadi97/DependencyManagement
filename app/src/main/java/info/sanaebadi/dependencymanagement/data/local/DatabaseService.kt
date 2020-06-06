@@ -10,6 +10,6 @@ class DatabaseService(context: Context) {
     private val databaseName = "dummy_db"
     private val version = 1
 
-    val dummyData: String
+    val getDummyData: String
         get() = "DATABASE_DUMMY_DATA"
 }
