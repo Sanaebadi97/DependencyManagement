@@ -13,12 +13,27 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/info/sanaebadi/dependencymanagement/data/local/DatabaseService.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/app/src/main/java/info/sanaebadi/dependencymanagement/ui/MainActivity.java">
           <value>
             <set />
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Mindroks/Dagger Learning Projects/STAGE_0-without_dagger/app/src/main/java/com/mindorks/bootcamp/learndagger/data/local/DatabaseService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Mindroks/Dagger Learning Projects/STAGE_0-without_dagger/app/src/main/java/com/mindorks/bootcamp/learndagger/data/local/DatabaseService.kt">
           <value>
             <set />
           </value>
