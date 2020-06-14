@@ -3,7 +3,6 @@ package info.sanaebadi.dependencymanagement.ui
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import info.sanaebadi.dependencymanagement.databinding.ActivityMainBinding
-import info.sanaebadi.dependencymanagement.di.DependencyComponent
 
 class MainActivity : AppCompatActivity() {
 
@@ -17,8 +16,6 @@ class MainActivity : AppCompatActivity() {
         val view = binding.root
         setContentView(view)
 
-
-        DependencyComponent.inject(this)
 
         binding.tvData.text = viewModel.getSomeData
     }

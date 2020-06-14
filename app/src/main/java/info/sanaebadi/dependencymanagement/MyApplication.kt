@@ -3,7 +3,6 @@ package info.sanaebadi.dependencymanagement
 import android.app.Application
 import info.sanaebadi.dependencymanagement.data.local.DatabaseService
 import info.sanaebadi.dependencymanagement.data.remote.NetworkService
-import info.sanaebadi.dependencymanagement.di.DependencyComponent
 import javax.inject.Inject
 
 class MyApplication : Application() {
@@ -18,6 +17,5 @@ class MyApplication : Application() {
     override fun onCreate() {
         super.onCreate()
 
-        DependencyComponent.inject(this)
     }
 }
