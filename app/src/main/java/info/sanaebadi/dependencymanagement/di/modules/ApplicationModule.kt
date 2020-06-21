@@ -16,6 +16,6 @@ public class ApplicationModule(var application: MyApplication) {
 
     @Provides
     fun provideDatabaseService(): DatabaseService {
-        return DatabaseService(application, "db", 1)
+        return DatabaseService(application, "xyz ", 1)
     }
 }
