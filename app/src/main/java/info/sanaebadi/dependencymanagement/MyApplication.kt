@@ -1,6 +1,7 @@
 package info.sanaebadi.dependencymanagement
 
 import android.app.Application
+import android.util.Log
 import info.sanaebadi.dependencymanagement.data.local.DatabaseService
 import info.sanaebadi.dependencymanagement.data.remote.NetworkService
 import info.sanaebadi.dependencymanagement.di.component.ApplicationComponent
@@ -22,10 +23,14 @@ class MyApplication : Application() {
 
     override fun onCreate() {
         super.onCreate()
+
+
         DaggerApplicationComponent.builder()
                 .applicationModule(ApplicationModule(this))
                 .build()
                 .inject(this)
+
+        Log.i("MYAPP", networkService.toString())
 
 
     }
