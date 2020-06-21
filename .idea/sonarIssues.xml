@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/Dummy.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Lecture2/Dagger Practice Work Solution/app/src/main/java/com/mindorks/bootcamp/learndagger/MyApplication.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Lecture2/Dagger Practice Work Solution/app/src/main/java/com/mindorks/bootcamp/learndagger/data/local/DatabaseService.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Lecture2/Dagger Practice Work Solution/app/src/main/java/com/mindorks/bootcamp/learndagger/data/remote/NetworkService.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Lecture2/Dagger Practice Work Solution/app/src/main/java/com/mindorks/bootcamp/learndagger/di/component/ActivityComponent.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Lecture2/Dagger Practice Work Solution/app/src/main/java/com/mindorks/bootcamp/learndagger/di/component/ApplicationComponent.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Lecture2/Dagger Practice Work Solution/app/src/main/java/com/mindorks/bootcamp/learndagger/di/component/FragmentComponent.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Lecture2/Dagger Practice Work Solution/app/src/main/java/com/mindorks/bootcamp/learndagger/di/module/ActivityModule.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Lecture2/Dagger Practice Work Solution/app/src/main/java/com/mindorks/bootcamp/learndagger/di/module/ApplicationModule.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Lecture2/Dagger Practice Work Solution/app/src/main/java/com/mindorks/bootcamp/learndagger/di/module/FragmentModule.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Lecture2/Dagger Practice Work Solution/app/src/main/java/com/mindorks/bootcamp/learndagger/di/qualifier/ActivityContext.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Lecture2/Dagger Practice Work Solution/app/src/main/java/com/mindorks/bootcamp/learndagger/di/qualifier/ApplicationContext.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Lecture2/Dagger Practice Work Solution/app/src/main/java/com/mindorks/bootcamp/learndagger/di/qualifier/NetworkInfo.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Lecture2/Dagger Practice Work Solution/app/src/main/java/com/mindorks/bootcamp/learndagger/di/scope/ActivityScope.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Lecture2/Dagger Practice Work Solution/app/src/main/java/com/mindorks/bootcamp/learndagger/di/scope/FragmentScope.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Lecture2/Dagger Practice Work Solution/app/src/main/java/com/mindorks/bootcamp/learndagger/ui/home/HomeFragment.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Lecture2/Dagger Practice Work Solution/app/src/main/java/com/mindorks/bootcamp/learndagger/ui/home/HomeViewModel.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Lecture2/Dagger Practice Work Solution/app/src/main/java/com/mindorks/bootcamp/learndagger/ui/main/MainActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Lecture2/Dagger Practice Work Solution/app/src/main/java/com/mindorks/bootcamp/learndagger/ui/main/MainViewModel.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Lecture2/Dagger Practice Work Solution/app/src/main/java/com/mindorks/bootcamp/learndagger/utils/NetworkHelper.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ArmanPro/security2-master/app/src/main/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ArmanPro/security2-master/app/src/main/java/com/fararoid/mobosecurity/activities/MasterActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/.idea/misc.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/build/tmp/kapt3/stubs/debug/info/sanaebadi/dependencymanagement/MyApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/info/sanaebadi/dependencymanagement/MyApplication.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/info/sanaebadi/dependencymanagement/data/local/DatabaseService.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/info/sanaebadi/dependencymanagement/data/remote/NetworkService.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/info/sanaebadi/dependencymanagement/di/DependencyComponent.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/info/sanaebadi/dependencymanagement/di/component/ApplicationComponent.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/info/sanaebadi/dependencymanagement/di/modules/ApplicationModule.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/info/sanaebadi/dependencymanagement/ui/MainActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/info/sanaebadi/dependencymanagement/ui/MainViewModel.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
