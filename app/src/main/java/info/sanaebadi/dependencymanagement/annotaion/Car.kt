@@ -1,5 +1,5 @@
 package info.sanaebadi.dependencymanagement.annotaion
 
-public class Car (val speed:Int) {
+public open class Car (val speed:Int) {
 
 }
