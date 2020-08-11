@@ -20,5 +20,6 @@ class MainActivity : AppCompatActivity() {
 
 
         binding.tvData.text = viewModel.getSomeData
+
     }
 }

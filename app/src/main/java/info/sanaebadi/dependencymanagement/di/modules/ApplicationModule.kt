@@ -16,6 +16,8 @@ public class ApplicationModule(var application: MyApplication) {
         return NetworkService(application, "abc")
     }
 
+
+
     @Singleton
     @Provides
     fun provideDatabaseService(): DatabaseService {
