@@ -1,3 +1,2 @@
-
-mikdros
+DependencyManagement
 
